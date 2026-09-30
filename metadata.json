@@ -1,0 +1,6 @@
+{
+  "name": "Adilov Motors & Lifestyle",
+  "description": "Bespoke automotive coachbuilding, carbon aerodynamic tuning, and luxury lifestyle commissions for discerning collectors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
